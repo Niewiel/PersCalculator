@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PersCalculator</string>
+    <string name="pojemnosc">Pojemność</string>
+    <string name="cena">cena</string>
+    <string name="stezenie_robocze">Stężenie robocze</string>
+    <string name="ilosc_litrow_gotowego_produktu">Ilość litrów gotowego produktu</string>
+    <string name="cena_1l_gotowego_produktu">cena 1L gotowego produktu</string>
+    <string name="oblicz">Oblicz!</string>
+</resources>
