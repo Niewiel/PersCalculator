@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:design:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/17eae03f6be3d59aff3f12d8cbecd6bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6fc1ddbfa29d0df4cf6bcce3fa6ea7bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/niewiel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/588567112fb6d1ce962f198c71b2b234/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/87c5214094169936f44fa7732d9c0abf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4bfa3cab510ce00f10c2062200d93d4e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f5607b605e210e1e19d0eea4101d9ce0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a4896a2ad6444eb34a61e7f2c64b369c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/eb04823959cf6d857ece805ccd604f8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/427af8d8ca52b49b6598e8b30f5a691d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/18d8e69038e8d5b89b79c45f8160548e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/a02477cfeabf765852544980802ae19a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/760ba12bc2742ffdc229b20238fb8bf6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/13330b214f7018e29b4c0d3c6389b8b1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/niewiel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/cc1c49574a7bb43dca22a0dcb8a0a478/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/niewiel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/50389c689a8fb245788cabeab6202cbc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/niewiel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3f69a9e4dbfddbf351421c9dfe560244/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/niewiel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/422b9f2cf3ee40ed037d64573c0ac6ea/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml
+		INJECTED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml
+		ADDED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml
+		ADDED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/niewiel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/588567112fb6d1ce962f198c71b2b234/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/niewiel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/588567112fb6d1ce962f198c71b2b234/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:11:9-40
+activity#pl.com.pers.perscalculator.MainActivity
+ADDED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:12:9-19:20
+	android:screenOrientation
+		ADDED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:13:13-49
+	android:name
+		ADDED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml
+INJECTED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/17eae03f6be3d59aff3f12d8cbecd6bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/17eae03f6be3d59aff3f12d8cbecd6bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6fc1ddbfa29d0df4cf6bcce3fa6ea7bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6fc1ddbfa29d0df4cf6bcce3fa6ea7bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/niewiel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/588567112fb6d1ce962f198c71b2b234/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/niewiel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/588567112fb6d1ce962f198c71b2b234/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/87c5214094169936f44fa7732d9c0abf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/87c5214094169936f44fa7732d9c0abf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4bfa3cab510ce00f10c2062200d93d4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4bfa3cab510ce00f10c2062200d93d4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f5607b605e210e1e19d0eea4101d9ce0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f5607b605e210e1e19d0eea4101d9ce0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a4896a2ad6444eb34a61e7f2c64b369c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a4896a2ad6444eb34a61e7f2c64b369c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/eb04823959cf6d857ece805ccd604f8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/eb04823959cf6d857ece805ccd604f8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/427af8d8ca52b49b6598e8b30f5a691d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/427af8d8ca52b49b6598e8b30f5a691d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/18d8e69038e8d5b89b79c45f8160548e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/18d8e69038e8d5b89b79c45f8160548e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/a02477cfeabf765852544980802ae19a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/a02477cfeabf765852544980802ae19a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/760ba12bc2742ffdc229b20238fb8bf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/760ba12bc2742ffdc229b20238fb8bf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/13330b214f7018e29b4c0d3c6389b8b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/niewiel/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/13330b214f7018e29b4c0d3c6389b8b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/niewiel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/cc1c49574a7bb43dca22a0dcb8a0a478/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/niewiel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/cc1c49574a7bb43dca22a0dcb8a0a478/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/niewiel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/50389c689a8fb245788cabeab6202cbc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/niewiel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/50389c689a8fb245788cabeab6202cbc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/niewiel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3f69a9e4dbfddbf351421c9dfe560244/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/niewiel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3f69a9e4dbfddbf351421c9dfe560244/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/niewiel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/422b9f2cf3ee40ed037d64573c0ac6ea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/niewiel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/422b9f2cf3ee40ed037d64573c0ac6ea/AndroidManifest.xml:20:5-44
+INJECTED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml
+INJECTED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml
+		ADDED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml
+		INJECTED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml
+		ADDED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml
+		INJECTED from /home/niewiel/StudioProjects/PersCalculator/app/src/main/AndroidManifest.xml

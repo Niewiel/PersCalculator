@@ -15,7 +15,7 @@
             android:id="@+id/pojemnosc"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:inputType="number"
+            android:inputType="numberDecimal"
             android:hint="@string/pojemnosc" />
 
     </android.support.design.widget.TextInputLayout>

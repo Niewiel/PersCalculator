@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/niewiel/StudioProjects/PersCalculator/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/niewiel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6fc1ddbfa29d0df4cf6bcce3fa6ea7bc/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/niewiel/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/13330b214f7018e29b4c0d3c6389b8b1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

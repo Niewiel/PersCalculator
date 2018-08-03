@@ -53,17 +53,16 @@ public class MainActivity extends AppCompatActivity {
         if (pojemnosc.getText().toString().isEmpty()) {
             pojemnosc.setError(ERROR);
             flag++;
-            System.err.println(flag);
         }
         if (cena.getText().toString().isEmpty()) {
             cena.setError(ERROR);
             flag++;
-            System.err.println(flag);
+
         }
         if (stezenie.getText().toString().isEmpty()) {
             stezenie.setError(ERROR);
             flag++;
-            System.err.println(flag);
+
         }
 
         System.err.println(flag);
@@ -73,9 +72,10 @@ public class MainActivity extends AppCompatActivity {
 
     private void policz(double pojemnosc, double cena, double stezenie) {
         double ilosc = pojemnosc / (stezenie * 0.01);
-        ilocsLitrow.setText(String.valueOf(ilosc));
-        cenaZaLitr.setText(String.valueOf(cena / ilosc));
-        System.err.println(cenaZaLitr.getText().toString());
+        String val1=String.format("%.0f",ilosc);
+        String val2=String.format("%.2f",cena / ilosc);
+        ilocsLitrow.setText(val1);
+        cenaZaLitr.setText(val2);
     }
 
     public static void hideKeyboard(Context context, View view) {
