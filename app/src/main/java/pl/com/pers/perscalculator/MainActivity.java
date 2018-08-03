@@ -10,6 +10,8 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
 import android.widget.EditText;
 
+import java.util.Locale;
+
 public class MainActivity extends AppCompatActivity {
 
     private static final String ERROR = "pole wymagane";
@@ -72,8 +74,8 @@ public class MainActivity extends AppCompatActivity {
 
     private void policz(double pojemnosc, double cena, double stezenie) {
         double ilosc = pojemnosc / (stezenie * 0.01);
-        String val1=String.format("%.0f",ilosc);
-        String val2=String.format("%.2f",cena / ilosc);
+        String val1=String.format(Locale.ENGLISH,"%.0f",ilosc);
+        String val2=String.format(Locale.ENGLISH,"%.2f",cena / ilosc);
         ilocsLitrow.setText(val1);
         cenaZaLitr.setText(val2);
     }

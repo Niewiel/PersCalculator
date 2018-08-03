@@ -28,7 +28,7 @@
             android:id="@+id/cena"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:inputType="number"
+            android:inputType="numberDecimal"
             android:hint="@string/cena" />
     </android.support.design.widget.TextInputLayout>
 
@@ -41,7 +41,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/stezenie_robocze"
-            android:inputType="number" />
+            android:inputType="numberDecimal" />
 
     </android.support.design.widget.TextInputLayout>
 
